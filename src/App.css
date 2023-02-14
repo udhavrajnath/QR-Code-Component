@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  ;
+}
+
+body{
+  background-color: hsl(212, 45%, 89%)
+  ;
+}
