@@ -21,8 +21,8 @@ path for screenshot => [./images/screenshot.jpg]
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/udhavrajnath/QR-Code-Component.git]
+- Live Site URL: [https://udhavrajnath.github.io/QR-Code-Component/]
 
 ## My process
 
