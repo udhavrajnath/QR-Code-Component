@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+path for screenshot => [./images/screenshot.jpg]
 
 ### Links
 
@@ -44,7 +44,7 @@ The syntax of using img tags have changed since the last time  I used, so its al
 
 ### Useful resources
 
-- [Using google fonts in your projects](https://www.youtube.com/watch?v=u1HyG535JY0) - This is an amazing article which helped me finally understand how to import google fonts to your CSS files. I'd recommend it to anyone still learning this concept.
+- [Using google fonts in your projects][(https://www.youtube.com/watch?v=u1HyG535JY0)] - This is an amazing article which helped me finally understand how to import google fonts to your CSS files. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
